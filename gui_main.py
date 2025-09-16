@@ -37,7 +37,7 @@ def main():
         website_entry.insert(END, "https://www.")
 
     window = Tk()
-    window.title("Password Manager")
+    window.title("Account Registration")
     window.config(padx=50, pady=50)
 
     canvas = Canvas(width=200, height=200)
