@@ -1,4 +1,4 @@
-import gui_main as m
+import gui_account_reg as m
 import gui_login as l
 import gui_passwordrecovery as pr
 
